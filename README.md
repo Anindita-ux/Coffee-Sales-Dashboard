@@ -27,9 +27,7 @@ This project includes:
 
 - **Microsoft Excel** (Power Query, Pivot Tables, Charts)
 - **Data Cleaning & Wrangling**
-- **Exploratory Data Analysis (EDA)**
 
----
 
 ## 📈 Key Insights
 
@@ -39,14 +37,5 @@ Here are just a few things we uncovered:
 - 📦 Best-selling sizes and add-ons
 - 📉 Least ordered items to consider removing
 
-(You can replace this section with real insights if available.)
 
----
 
-## 🔍 How to Explore
-
-1. Download both Excel files.
-2. Open `coffeeOrdersProject.xlsx` to explore pre-built analysis and charts.
-3. Feel free to modify the raw dataset and perform your own analysis!
-
----
